@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color:red;
+}
+
+h2{
+    text-decoration: underline;
+    color:brown;
+}
+*{
+    margin:10px;
+}
